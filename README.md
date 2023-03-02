@@ -35,13 +35,16 @@ To get started with the project, follow these simple steps:
 
 ### ⬇️ Install the necessary dependencies using NPM:
 
-    npm install
+    npm install react-router-dom@6
+    
+See [here](https://tailwindcss.com/docs/guides/vite) on how to setup Tailwindcss
 
 ## Usage
 
 🚀 Start the development server using the following command:
 
      npm run dev
+     
 
 🌐 Open your browser and go to http://127.0.0.1:5173/ to access the app.
 
